@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @NyoomNyoom
 - 👀 I’m interested in AI and Neural Networks
-- 🌱 I’m currently learning BSc majoring Maths and Computer Science
+- 🌱 I am a BSc graduate majoring in Computer Science
+
+Welcome to my github page, below you will see 2 pinned apps/games that I am currently or previously worked on :)
 
 
 <!---
